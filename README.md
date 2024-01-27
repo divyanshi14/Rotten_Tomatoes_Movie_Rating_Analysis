@@ -7,8 +7,8 @@ Ratings and reviews for 16,000+ movies - Find out which films are Certified Fres
 This report analyzes a dataset containing ratings and reviews for 15,000+ movies reviewed by Rotten Tomatoes. The dataset includes film details, featured reviews, "Tomatometer" status, and audience ratings. The analysis reveals insights about the distribution of ratings, genres, studios, and release dates, and discrepancies between Tomatometer ratings and audience ratings. The report concludes with recommendations for studios, filmmakers, and critics.
 
 ### **Solution & Outcomes:**
-	Movies are released based on one of 6 rating categories: R, NR, PG-13, PG, G, and NC17. The movie's primary genre is comedy, followed by drama, action & adventure, and so forth.
-o	R: -Restricted – Under 17 requires accompanying parent or adult guardian.
+*	Movies are released based on one of 6 rating categories: R, NR, PG-13, PG, G, and NC17. The movie's primary genre is comedy, followed by drama, action & adventure, and so forth.
+-- o	R: -Restricted – Under 17 requires accompanying parent or adult guardian.
 o	NR: - If a film has not been submitted for a rating or is an uncut version of a film that was submitted, the labels Not Rated (NR) or Unrated (UR) are often used.
 o	PG13: - Parents strongly cautioned under age 13
 o	PG: -Parental guidance suggested
