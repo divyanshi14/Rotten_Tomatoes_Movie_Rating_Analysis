@@ -7,13 +7,13 @@ Ratings and reviews for 16,000+ movies - Find out which films are Certified Fres
 This report analyzes a dataset containing ratings and reviews for 15,000+ movies reviewed by Rotten Tomatoes. The dataset includes film details, featured reviews, "Tomatometer" status, and audience ratings. The analysis reveals insights about the distribution of ratings, genres, studios, and release dates, and discrepancies between Tomatometer ratings and audience ratings. The report concludes with recommendations for studios, filmmakers, and critics.
 
 ### **Solution & Outcomes:**
-*	Movies are released based on one of 6 rating categories: R, NR, PG-13, PG, G, and NC17. The movie's primary genre is comedy, followed by drama, action & adventure, and so forth.
-  *	R: -Restricted – Under 17 requires accompanying parent or adult guardian.
- 	*	NR: - If a film has not been submitted for a rating or is an uncut version of a film that was submitted, the labels Not Rated (NR) or Unrated (UR) are often used.
-  *	PG13: - Parents strongly cautioned under age 13
-  *	PG: -Parental guidance suggested
-  *	G: - General audiences-All ages admitted
-  *	NC17: - No children under 17 admitted.
+	Movies are released based on one of 6 rating categories: R, NR, PG-13, PG, G, and NC17. The movie's primary genre is comedy, followed by drama, action & adventure, and so forth.
+o	R: -Restricted – Under 17 requires accompanying parent or adult guardian.
+o	NR: - If a film has not been submitted for a rating or is an uncut version of a film that was submitted, the labels Not Rated (NR) or Unrated (UR) are often used.
+o	PG13: - Parents strongly cautioned under age 13
+o	PG: -Parental guidance suggested
+o	G: - General audiences-All ages admitted
+o	NC17: - No children under 17 admitted.
 *	17.77% of Movies received Certified Fresh, 38.75% received Fresh and 43.47% received Rotten Ratings.
 *	Comparison is provided between Studio and Tomato-meter Average Rating and Paramount Pictures has produce highest Rated Films and Movie Count is 497 and lowest rated Studio are many which contains 0 Rating from Tomato-meter.
 *	Comparison has provided between audience rating and Rotten Tomato-meter Rating. The Movie 96 Souls has the highest discrepancies between audiences and critics.
